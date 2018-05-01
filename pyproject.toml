@@ -1,0 +1,11 @@
+[build-system]
+requires = ["flit"]
+build-backend = "flit.buildapi"
+
+[tool.flit.metadata]
+module = "dprint"
+author = "Pradyun Gedam"
+author-email = "pradyunsg@gmail.com"
+classifiers = ["License :: OSI Approved :: MIT License"]
+home-page = "https://github.com/pradyunsg/dprint"
+description-file = "README.md"
